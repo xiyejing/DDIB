@@ -1,0 +1,18 @@
+# Python >= 3.8 is recommended.
+#
+# For GPU training, install the PyTorch build that matches your CUDA driver
+# from https://pytorch.org/get-started/locally/ before installing this file.
+
+# Core numerical stack
+numpy>=1.23,<2.0
+pandas>=1.5,<3.0
+
+# Model training
+torch>=1.13
+einops>=0.6,<1.0
+
+# Metrics, probes, and calibration helpers
+scikit-learn>=1.1,<2.0
+
+# Data loading progress bars
+tqdm>=4.64,<5.0
