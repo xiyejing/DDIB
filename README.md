@@ -9,6 +9,7 @@ Multimodal Emotion Recognition (MER) often suffers from missing and corrupted mo
 <p align="center">
   <img width="1000" alt="D$^2$IB framework" src="./Figures/DDIB.png">
 </p>
+
 ## 🚀 Installation & Usage
 
 ### 1. Environment
